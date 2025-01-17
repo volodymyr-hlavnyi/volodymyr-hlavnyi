@@ -21,9 +21,9 @@ I am a passionate developer with experience in Python. I enjoy building web appl
 
 ## GitHub Stats
 
-[![Volodymyr's GitHub stats-Dark](https://github-readme-stats-kohl-seven-38.vercel.app/api?username=volodymyr-hlavnyi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com//github-readme-stats#gh-dark-mode-only)
+[![Volodymyr's GitHub stats-Dark](https://github-readme-stats-kohl-seven-38.vercel.app/api?username=volodymyr-hlavnyi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com//github-readme-stats#gh-dark-mode-only)
 
-[![Volodymyr's GitHub stats-Light](https://github-readme-stats-kohl-seven-38.vercel.app/api?username=volodymyr-hlavnyi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Volodymyr's GitHub stats-Light](https://github-readme-stats-kohl-seven-38.vercel.app/api?username=volodymyr-hlavnyi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 ## Top Languages
