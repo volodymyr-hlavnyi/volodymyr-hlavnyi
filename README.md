@@ -37,4 +37,3 @@ I am a passionate developer with experience in Python. I enjoy building web appl
 
 - [LinkedIn](https://www.linkedin.com/in/volodymyr-hlavnyi/)
 - [Personal Website](https://www.consultingservices.com.ua/)
-
