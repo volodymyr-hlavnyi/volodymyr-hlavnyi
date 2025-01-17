@@ -34,5 +34,5 @@ I am a passionate developer with experience in Python. I enjoy building web appl
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/volodymyr-hlavnyi/)
-- [Personal Website](http://www.consultingservices.com.ua/)
+- [Personal Website](https://www.consultingservices.com.ua/)
 
