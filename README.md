@@ -30,9 +30,6 @@ I am a passionate developer with experience in Python. I enjoy building web appl
 
 ## Notable Projects
 
-- **[Docker Windows VM](https://github.com/volodymyr-hlavnyi/docker-windows-vm):** Windows inside a Docker container. :contentReference[oaicite:0]{index=0}
-- **[Study Django on Docker](https://github.com/volodymyr-hlavnyi/study-django-on-docker):** Study prepare Django simple project on Docker with PostgreSQL and Gunicorn. :contentReference[oaicite:1]{index=1}
-- **[Django App Services](https://github.com/volodymyr-hlavnyi/django_app_services):** Application for controlling services using Django. :contentReference[oaicite:2]{index=2}
 
 ## Connect with Me
 
