@@ -28,7 +28,7 @@ I am a passionate developer with experience in Python. I enjoy building web appl
 
 ## Top Languages
 
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=volodymyr-hlavnyi&layout=donut-vertical&theme=dark&langs_count=8))](https://github.com/volodymyr-hlavnyi/github-readme-stats)
+[![Top Langs-Dark](https://github-readme-stats-kohl-seven-38.vercel.app/api/top-langs/?username=volodymyr-hlavnyi&layout=donut-vertical&theme=dark&langs_count=8))](https://github.com/volodymyr-hlavnyi/github-readme-stats)
 
 ## Notable Projects
 
