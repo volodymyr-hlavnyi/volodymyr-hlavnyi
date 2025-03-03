@@ -17,33 +17,21 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I am a passionate developer with experience in 
-Python 3, 
-Flask, 
-Django, 
-MySQL, 
-PostgreSQL, 
-MongoDB, 
-Docker, 
-Vue.js. 
+I am a passionate developer with experience in Python, 
+Flask, Django, MySQL, PostgreSQL, MongoDB, 
+Docker, Vue.js. 
+
 I enjoy building web applications and exploring new technologies.
 
 ## GitHub Stats
 
-**Dark Theme Users:**
-![Volodymyr's GitHub stats-Dark](https://github-readme-stats-kohl-seven-38.vercel.app/api?username=volodymyr-hlavnyi&show_icons=true&theme=dark)
-
-**Light Theme Users:**
-![Volodymyr's GitHub stats-Light](https://github-readme-stats-kohl-seven-38.vercel.app/api?username=volodymyr-hlavnyi&show_icons=true&theme=default)
+![Volodymyr's GitHub stats](https://github-readme-stats-kohl-seven-38.vercel.app/api?username=volodymyr-hlavnyi&show_icons=true&theme=graywhite)
 
 ## Top Languages
 
-**Dark Theme Users:**
-![Top Langs-Dark](https://github-readme-stats-kohl-seven-38.vercel.app/api/top-langs/?username=volodymyr-hlavnyi&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-kohl-seven-38.vercel.app/api/top-langs/?username=volodymyr-hlavnyi&layout=compact&theme=graywhite)
 
-**Light Theme Users:**
-![Top Langs-Light](https://github-readme-stats-kohl-seven-38.vercel.app/api/top-langs/?username=volodymyr-hlavnyi&layout=compact&theme=default)
-
+## Notable Projects
 ## Notable Projects
 
 
