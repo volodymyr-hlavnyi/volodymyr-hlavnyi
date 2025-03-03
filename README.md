@@ -31,9 +31,9 @@ I enjoy building web applications and exploring new technologies.
 
 ## Top Languages
 
-[![Top Languages GitHub stats-Dark](https://github-readme-stats-kohl-seven-38.vercel.app/api/top-langs/?username=volodymyr-hlavnyi&layout=compact&theme=dark#gh-dark-mode-only)
+[![Top Languages GitHub stats-Dark](https://github-readme-stats-kohl-seven-38.vercel.app/api/top-langs/?username=volodymyr-hlavnyi&layout=compact&theme=dark#gh-dark-mode-only)]
 
-[![Top Languages GitHub stats-Light](https://github-readme-stats-kohl-seven-38.vercel.app/api/top-langs/?username=volodymyr-hlavnyi&layout=compact&theme=default#gh-light-mode-only)
+[![Top Languages GitHub stats-Light](https://github-readme-stats-kohl-seven-38.vercel.app/api/top-langs/?username=volodymyr-hlavnyi&layout=compact&theme=default#gh-light-mode-only)]
 
 ## Notable Projects
 
