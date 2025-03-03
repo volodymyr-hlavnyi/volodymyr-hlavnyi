@@ -32,8 +32,6 @@ I enjoy building web applications and exploring new technologies.
 ![Top Langs](https://github-readme-stats-kohl-seven-38.vercel.app/api/top-langs/?username=volodymyr-hlavnyi&layout=compact&theme=graywhite)
 
 ## Notable Projects
-## Notable Projects
-
 
 ## Connect with Me
 
