@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I am a passionate developer with experience in Python. I enjoy building web applications and exploring new technologies.
+I am a passionate developer with experience in Python 3, Flask, Django, MySQL, PostgreSQL, MongoDB, Docker, Vue.js. 
+I enjoy building web applications and exploring new technologies.
 
 ## GitHub Stats
 
-[![Volodymyr's GitHub stats-Dark](https://github-readme-stats-kohl-seven-38.vercel.app/api?username=volodymyr-hlavnyi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com//github-readme-stats#gh-dark-mode-only)
+[![Volodymyr's GitHub stats-Dark](https://github-readme-stats-kohl-seven-38.vercel.app/api?username=volodymyr-hlavnyi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/volodymyr-hlavnyi/github-readme-stats#gh-dark-mode-only)
 
-[![Volodymyr's GitHub stats-Light](https://github-readme-stats-kohl-seven-38.vercel.app/api?username=volodymyr-hlavnyi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Volodymyr's GitHub stats-Light](https://github-readme-stats-kohl-seven-38.vercel.app/api?username=volodymyr-hlavnyi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/volodymyr-hlavnyi/github-readme-stats#gh-light-mode-only)
 
 
 ## Top Languages
