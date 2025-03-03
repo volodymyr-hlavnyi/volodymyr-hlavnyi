@@ -30,16 +30,11 @@ I enjoy building web applications and exploring new technologies.
 
 ## GitHub Stats
 
-[![Volodymyr's GitHub stats-Dark](https://github-readme-stats-kohl-seven-38.vercel.app/api?username=volodymyr-hlavnyi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/volodymyr-hlavnyi/github-readme-stats#gh-dark-mode-only)
-
-[![Volodymyr's GitHub stats-Light](https://github-readme-stats-kohl-seven-38.vercel.app/api?username=volodymyr-hlavnyi&show_icons=true&theme=light#gh-light-mode-only)](https://github.com/volodymyr-hlavnyi/github-readme-stats#gh-light-mode-only)
-
+![Volodymyr's GitHub stats](https://github-readme-stats-kohl-seven-38.vercel.app/api?username=volodymyr-hlavnyi&show_icons=true)
 
 ## Top Languages
 
-[![Top Langs-Dark](https://github-readme-stats-kohl-seven-38.vercel.app/api/top-langs/?username=volodymyr-hlavnyi&layout=donut-vertical&theme=dark&langs_count=8))](https://github.com/volodymyr-hlavnyi/github-readme-stats)
-
-[![Top Langs-Dark](https://github-readme-stats-kohl-seven-38.vercel.app/api/top-langs/?username=volodymyr-hlavnyi&layout=donut-vertical&theme=light&langs_count=8))](https://github.com/volodymyr-hlavnyi/github-readme-stats)
+![Top Langs](https://github-readme-stats-kohl-seven-38.vercel.app/api/top-langs/?username=volodymyr-hlavnyi&layout=compact)
 
 ## Notable Projects
 
