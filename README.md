@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ## About Me
 
 I am a passionate developer with experience in Python, 
-Flask, Django, MySQL, PostgreSQL, MongoDB, 
-Docker, Vue.js. 
+Flask, Django, FastAPI, MySQL, PostgreSQL, MongoDB, 
+Docker, Vue.js, aiogram. 
 
 I enjoy building web applications and exploring new technologies.
 
